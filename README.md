@@ -1,1 +1,1 @@
-# Simple-Python-Calculator
+basic calculator created using python(no additional modules used)
